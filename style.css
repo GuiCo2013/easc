@@ -6,12 +6,16 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right top, #f13333, #eeff00, #00f335, #00ffff, #d400ff);
+background-image: linear-gradient(to right top, #98f133, #1b9930, #2c853f, #156e49, #2d0e33);
 }
 
 .header
 {
-	color: rgb(209, 27, 27);font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+	color :  rgb(34, 97, 39)  !important;
+	font-family: 'Yeon Sung';
+	font-size: 45px;
+	letter-spacing: 10px;
+	margin-top: 80px; 
 }
 .header img
 {
@@ -32,6 +36,7 @@ background-image: linear-gradient(to right top, #f13333, #eeff00, #00f335, #00ff
 {
 	width: 80%;border-radius: 15px;
 	color: aqua;
+	background-color: greenyellow;
 }
 
 .roomName
@@ -92,4 +97,7 @@ background-image: linear-gradient(to right top, #f13333, #eeff00, #00f335, #00ff
 .message_h4
 {
 	padding-left:5px;color:grey;
+}
+#shrek {
+	color: #1b9930;
 }
